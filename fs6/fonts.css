@@ -1,0 +1,12 @@
+﻿/* 
+ * NeoSansArabic
+ */
+@font-face {
+  font-family: 'NSA';
+  font-style: normal;
+  font-weight: normal;
+  src: url('//s.top4top.io/styles/default-new-reg/fonts/NeoSansArabic.eot');
+  src: url('//s.top4top.io/styles/default-new-reg/fonts/NeoSansArabic.eot?#iefix') format('embedded-opentype'),
+       url('//s.top4top.io/styles/default-new-reg/fonts/NeoSansArabic.woff') format('woff'),
+       url('//s.top4top.io/styles/default-new-reg/fonts/NeoSansArabic.ttf') format('truetype');
+}

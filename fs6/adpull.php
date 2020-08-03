@@ -1,0 +1,1 @@
+﻿document.write('<a rel="nofollow" target="_blank" href="//top4top.io/adgoo-77?1596310463" title="اختصار الروابط"><img style="" src="//top4top.io/adimg-77?1596310463" alt="اختصار الروابط" height="250" width="300" border="0" id="advertise"/></a>');
